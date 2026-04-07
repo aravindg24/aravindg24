@@ -12,9 +12,9 @@ I'm a passionate Software Engineer pursuing my Master's in Software Engineering 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravindg24&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aravindg24&theme=gruvbox&hide_border=false)
+![Streak Stats](https://streak-stats.demolab.com?user=aravindg24&theme=gruvbox&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindg24&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindg24&theme=gruvbox&hide_border=false&layout=compact)
 ---
 
 [![](https://komarev.com/ghpvc/?username=aravindg24&color=0e75b6&style=flat)](https://github.com/aravindg24)
